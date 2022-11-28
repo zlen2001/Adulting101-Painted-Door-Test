@@ -188,3 +188,24 @@ body {
     height:auto;
 }
 }
+@media (min-width:768px){
+    #buttonpic{
+        display:block;
+        max-width:100%;
+        height:auto;
+    }
+}
+@media (min-width:768px){
+    #star{
+        display:block;
+        max-width:140%;
+        height:auto;
+    }
+}
+@media (max-width:750px){
+    #buttonpic{
+        display:block;
+        max-width:120%;
+        height:auto;
+    }
+}
